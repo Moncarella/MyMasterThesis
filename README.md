@@ -1,1 +1,14 @@
-# MyMasterThesis
+
+
+
+
+## Business Big Data Analytics Master Thesis
+### Thesis Summary
+
+I am sharing my master's thesis for the Business Big Data Analytics program at Kaunas University of Technology. In this master’s thesis, the influence of financial and non-financial factors on the share price of Lithuanian manufacturing companies listed on Nasdaq OMX Baltic in 2005 – 2021 is analysed. In the beginning of this project, it is emphasized that one of the main goals of corporate finance management is to increase the shareholders‘ capital and firm value. In the context of this project, firm value is calculated based on stock price. For this reason, this thesis aims to identify measurable internal financial factors of the company and external environment factors that can have a significant impact on stock price changes in the market. It is assumed that with this information, business owners will be able to make effective corporate finance management decisions that increase the value and attractiveness of the company to investors.
+
+**Object of the Thesis:** Internal and external environment financial and non-financial factors of Lithuanian manufacturing companies listed on Nasdaq OMX Baltic.
+
+**Goal of the Thesis:** To identify significant relationship between financial or non-financial factors of the analyzed companies and their stock price in the market.
+
+The literature overview presented in the first part of the Thesis shows what are the most frequently analyzed financial and non-financial factors that should be considered, when trying to identify the impact on market share price. It is also concluded that the changes in the share price may be influenced by the external environment factors, such as macroeconomic indicators or their dynamics. It is noted that in previous similar research, the multiple linear regression method and the Granger causality analysis were used most frequently. The second part of the Thesis includes the methodology for calculating the companies’ financial indicators, and for implementing the selected mathematical methods. The results of the study are presented in the third part of the Thesis. The results of the multiple linear regression reveal that the NAVPS ratio and the interest rate were most frequently identified as significant variables for the market share price. Based on the results of this study, it is concluded that there is lack of evidence to provide a unified conclusion that there are certain factors that affect market share price with the same significance among the analysed companies. Although the results differ among the companies, they provide sufficient information to business owners on how to identify the factors that should be prioritized and monitored due to their potential impact on the company’s market share price and the ability to increase company value.
