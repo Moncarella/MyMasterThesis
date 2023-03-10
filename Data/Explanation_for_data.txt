@@ -1,0 +1,20 @@
+This folder includes all the data used for the thesis.
+
+Files with the name ending in "_Financial Statements" include the company's financial statements and various 
+internal and external indicators. In the sheet named "BS" you will find quarterly standardized financial 
+statements for the period of 2005 - 2021 (in most cases) or for a period where data was available online. 
+Financial statements data was extracted from the Bloomberg terminal and supplemented by data from the 
+Nasdaq Baltic page (link - https://nasdaqbaltic.com/statistics/en/shares).
+The sheet "Indicators" includes the company's financial indicators and other additional internal and 
+external indicators needed for the analysis. It also consists of a few macroeconomic indicators describing
+the environment in which the company operated. The company's internal indicators are calculated by me, using
+the established methodology by Nasdaq OMX. External indicators are extracted from the Official Statistics
+Portal (link - https://osp.stat.gov.lt/pradinis).
+
+Other files in this folder are raw data extracted from the financial statement files.
+The files are all separate for each company. They contain 34 independent variables and a dependent variable
+y - the share price. The files are named by the company's alias in a stock market e.g., AUG1L for AB Auga 
+Group. Each company has three different file versions, differentiated by the last number in the file name: 
+y0 - includes the share price on the last day of the quarter;
+y1 - share price on the last day, one month past the quarter close;
+y2 - share price on the last day, two months past the quarter close.

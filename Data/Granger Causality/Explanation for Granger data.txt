@@ -1,0 +1,8 @@
+This folder contains all the data files used for Granger causality analysis and its results.
+Files are named by the company's abbreviation (e.g. GRG), "granger" for granger causality test,
+and the number. The first number indicates which version of the dependent variable y the data 
+contains. The second number indicates which part of data it is. There are two parts of data for
+each dependent variable, bacause the data was divided in order to achieve more precise results.
+
+This folder also contains the Granger causality analysis result files. Their names end with the 
+abbreviation "rez".
